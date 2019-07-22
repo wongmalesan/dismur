@@ -1,0 +1,57 @@
+#client .container .row {
+    display: flex;
+}
+
+#client .container .row div {
+    margin: auto;
+}
+
+/* <!-- product-detail css
+===================================== --> */
+
+.shop-item-available > span > ul > li {
+    padding-bottom: 5px;
+}
+
+.shop-item-available span ul li img {
+    height: 50px;
+    width: auto;
+}
+
+.shop-item-detail-cat > a > i{
+    font-size: 3em;
+}
+
+.shop-item-available span strong{
+    color: rgb(233, 67, 67);
+    font-size: large;
+}
+
+#shop_item_additional_information .nav img{
+    height: 3vh;
+}
+
+/* Start ====================================== */
+/* Custom Setting */
+/* ====================================== */
+
+.ds-flex{
+    display: flex;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+/* End ====================================== */
+/* Custom Setting */
+/* ====================================== */
+
+
+/* .modal-dialog-centered {
+    position: absolute;
+  float: left;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  } */
