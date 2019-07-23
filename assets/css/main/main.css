@@ -3652,7 +3652,7 @@ ul.breadcrumb li a:hover {
 .shop-item-container-in {
     background: #fff;
     padding: 25px 0;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     border: 1px solid #eaeff3;
     -webkit-border-radius: 3px;
        -moz-border-radius: 3px;
@@ -3863,7 +3863,7 @@ a.add-to-cart:hover {
 .shop-label {
     position: absolute;
     color: #fff;
-    font-size: 11px;
+    font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
     padding: 3px 7px;
@@ -3875,10 +3875,10 @@ a.add-to-cart:hover {
             border-radius: 2px;
 }
 .shop-label:nth-child(2) {
-    margin-top: 25px;
+    margin-top: 30px;
 }
 .shop-label:nth-child(3) {
-    margin-top: 50px;
+    margin-top: 60px;
 }
 .shop-control-prev,
 .shop-control-next {

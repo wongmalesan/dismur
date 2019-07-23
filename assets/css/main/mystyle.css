@@ -48,6 +48,21 @@
 /* ====================================== */
 
 
+/* ====================================== */
+/* Custom main style */
+/* ====================================== */
+
+#ai-product .shop-item-container-out .add-to-cart{
+    width: 100%;
+    position: unset !important;
+    left: 0;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 12.5px;
+}
+
+
 /* .modal-dialog-centered {
     position: absolute;
   float: left;
