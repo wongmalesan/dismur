@@ -6,6 +6,22 @@
     margin: auto;
 }
 
+/* Start ====================================== */
+/* Custom Portofolio */
+/* ====================================== */
+
+#portfolioGrid .portfolio-item i{
+    margin: auto;
+    top: 50%;
+    bottom: 0;
+    position: absolute;
+}
+
+#portfolioGrid .portfolio .portfolio-item img{
+    width: 75% !important;
+    margin: auto;
+}
+
 /* <!-- product-detail css
 ===================================== --> */
 
